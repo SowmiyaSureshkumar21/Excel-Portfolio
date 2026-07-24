@@ -27,10 +27,6 @@ Built an interactive Call Center Dashboard in Microsoft Excel to analyze call vo
 - Analyzed monthly and weekly call trends.
 - Tracked customer satisfaction ratings.
 
-## 🖼️ Dashboard Preview
-
-![Dashboard](Images/Call center dashboard.png)
-
 ## 📁 Files
 - Call_Center_Dashboard.xlsx
 - Dashboard Screenshot
