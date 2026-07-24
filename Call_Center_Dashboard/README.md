@@ -1,22 +1,37 @@
-# Call Center Dashboard (Excel)
+# 📞 Call Center Dashboard (Excel)
 
-## Project Overview
+## 📌 Project Overview
+Built an interactive Call Center Dashboard in Microsoft Excel to analyze call volumes, customer satisfaction, representative performance and revenue trends.
 
-This project is an interactive Call Center Dashboard created in Microsoft Excel to analyze call center performance.
-
-## Tools Used
-
+## 🛠️ Tools Used
 - Microsoft Excel
 - Pivot Tables
-- Pivot Charts
+- Charts
 - Data model
 - Slicers
 - Conditional Formatting
+- Excel Formulas
 
-## Dashboard Features
-
+## 📊 Dashboard Features
 - Total Calls
+- Total Revenue
+- Call Duration
 - Customer Ratings
-- Call Trends
-- Agent Performance
+- Representative Performance
+- Monthly Call Trends
 - City-wise Analysis
+
+## 📈 Key Insights
+- Identified top-performing representatives.
+- Compared male vs. female callers.
+- Analyzed monthly and weekly call trends.
+- Tracked customer satisfaction ratings.
+
+## 🖼️ Dashboard Preview
+
+![Dashboard](Images/Call center dashboard.png)
+
+## 📁 Files
+- Call_Center_Dashboard.xlsx
+- Dashboard Screenshot
+- README.md
