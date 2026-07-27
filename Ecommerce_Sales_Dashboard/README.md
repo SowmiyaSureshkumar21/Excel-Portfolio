@@ -1,10 +1,10 @@
-# E-commerce Sales Dashboard (Excel)
+# 🛒 E-commerce Sales Dashboard (Excel)
 
-## Project Overview
+## 📌 Project Overview
 
-This project is an interactive E-commerce Sales Dashboard created in Microsoft Excel to analyze sales performance, customer behavior, product trends and delivery metrics.
+Built an interactive E-commerce Sales Dashboard in Microsoft Excel to analyze sales performance, customer purchasing behavior, product trends and delivery metrics.
 
-## Tools Used
+## 🛠️ Tools Used
 
 - Microsoft Excel
 - Pivot Tables
@@ -12,7 +12,8 @@ This project is an interactive E-commerce Sales Dashboard created in Microsoft E
 - Slicers
 - Conditional Formatting
 
-## Dashboard Features
+
+## 📊 Dashboard Features
 
 - Total Orders
 - Total Quantity Sold
